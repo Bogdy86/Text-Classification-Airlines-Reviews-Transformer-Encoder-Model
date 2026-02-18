@@ -11,7 +11,7 @@ This project builds a Transformer-based text classification model to analyze air
 Airline customer reviews dataset.
 
 ## Data Preprocessing
-Text data was cleaned and normalized by removing punctuation, converting to lowercase, and tokenizing sentences. The text was then encoded into numerical representations suitable for input into the Transformer model.
+Text data was cleaned and normalized by removing punctuation, converting to lowercase, and tokenizing sentences, and padded to ensure uniform input length. The text was then encoded into numerical representations suitable for input into the Transformer model.
 
 ## Technologies Used
 - Python
