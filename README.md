@@ -35,6 +35,10 @@ A prediction function was implemented to classify new, unseen airline reviews. T
 ## Results
 The model learns patterns in customer feedback and predicts sentiment automatically.
 
+## Future Improvements
+- Deploy as API
+- Train on larger datasets
+
 ## How to Run
 Open the notebook:
 
